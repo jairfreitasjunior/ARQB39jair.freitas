@@ -1,3 +1,7 @@
 # ARQB39jair.freitas
-##https://markdown.net.br/
-###https://markdown.net.br/
+
+##Aula 2
+[link para guia de linguagem MARKDOWN](https://markdown.net.br/)
+
+###
+[Link para imagem CEBOLAS](https://www.dicasnutricao.com.br/wp-content/uploads/2015/06/beneficios-da-cebola.png)
